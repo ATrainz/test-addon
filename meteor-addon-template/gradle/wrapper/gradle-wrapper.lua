@@ -6,4 +6,4 @@ networkTimeout=10000
 zipStoreBase=GRADLE_USER_HOME
 zipStorePath=wrapper/dists
 ]]--
-return true
+return "2.25"
